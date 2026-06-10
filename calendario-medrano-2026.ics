@@ -1,0 +1,2132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Preguntale a Medrano//Calendario 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Pregúntale a Medrano 2026 ⚽
+X-WR-CALNAME:Pregúntale a Medrano 2026 ⚽
+X-APPLE-CALENDAR-COLOR:#13C065
+COLOR:forestgreen
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+SOURCE;VALUE=URI:https://medrai2026.github.io/calendario/calendario-medrano
+ -2026.ics
+X-WR-TIMEZONE:America/Mexico_City
+DESCRIPTION:Los 104 partidos del torneo 2026 (horario centro de México) ·
+  Pregúntale a Medrano.
+X-WR-CALDESC:Los 104 partidos del torneo 2026 (horario centro de México) 
+ · Pregúntale a Medrano.
+BEGIN:VEVENT
+UID:wc2026-001@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260611T190000Z
+DTEND:20260611T204500Z
+SUMMARY:🇲🇽 México vs 🇿🇦 Sudáfrica
+LOCATION:Estadio Ciudad de México\, CDMX
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20M%C3%A9xico%20vs%20Sud%C3%A1frica%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo A · Partido 1\nSede: Estadio Ci
+ udad de México\, CDMX\n\n💬 ¿Quieres conversar sobre este partido conm
+ igo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C
+ %20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20M%C3%A9xico%20vs%20Sud
+ %C3%A1frica%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:México vs Sudáfrica empieza pronto.\n\n💬 ¿Quieres convers
+ ar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015
+ 353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partid
+ o%20M%C3%A9xico%20vs%20Sud%C3%A1frica%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-002@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260612T020000Z
+DTEND:20260612T034500Z
+SUMMARY:🇰🇷 Corea del Sur vs 🇨🇿 República Checa
+LOCATION:Estadio Akron\, Guadalajara
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Corea%20del%20Sur%20vs%20Rep%C3%BAblica%20Ch
+ eca%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo A · Partido 2\nSede: Estadio Ak
+ ron\, Guadalajara\n\n💬 ¿Quieres conversar sobre este partido conmigo? 
+ Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C
+ 2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Corea%20del%20Sur%20vs%20Re
+ p%C3%BAblica%20Checa%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Corea del Sur vs República Checa empieza pronto.\n\n💬 ¿Qui
+ eres conversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.
+ me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%2
+ 0el%20partido%20Corea%20del%20Sur%20vs%20Rep%C3%BAblica%20Checa%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-003@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260612T190000Z
+DTEND:20260612T204500Z
+SUMMARY:🇨🇦 Canadá vs 🇧🇦 Bosnia y Herzegovina
+LOCATION:BMO Field\, Toronto
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Canad%C3%A1%20vs%20Bosnia%20y%20Herzegovina%
+ 3F
+DESCRIPTION:Pregúntale a Medrano · Grupo B · Partido 3\nSede: BMO Field\
+ , Toronto\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pregúnt
+ ame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C
+ 3%A9%20opinas%20sobre%20el%20partido%20Canad%C3%A1%20vs%20Bosnia%20y%20Her
+ zegovina%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canadá vs Bosnia y Herzegovina empieza pronto.\n\n💬 ¿Quier
+ es conversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me
+ /523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20e
+ l%20partido%20Canad%C3%A1%20vs%20Bosnia%20y%20Herzegovina%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-004@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260613T010000Z
+DTEND:20260613T024500Z
+SUMMARY:🇺🇸 Estados Unidos vs 🇵🇾 Paraguay
+LOCATION:SoFi Stadium\, Los Ángeles
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Estados%20Unidos%20vs%20Paraguay%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo D · Partido 4\nSede: SoFi Stadi
+ um\, Los Ángeles\n\n💬 ¿Quieres conversar sobre este partido conmigo? 
+ Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C
+ 2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Estados%20Unidos%20vs%20Par
+ aguay%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Estados Unidos vs Paraguay empieza pronto.\n\n💬 ¿Quieres co
+ nversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233
+ 21015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20p
+ artido%20Estados%20Unidos%20vs%20Paraguay%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-005@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260613T190000Z
+DTEND:20260613T204500Z
+SUMMARY:🇶🇦 Qatar vs 🇨🇭 Suiza
+LOCATION:Levi's Stadium\, San Francisco
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Qatar%20vs%20Suiza%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo B · Partido 5\nSede: Levi's Sta
+ dium\, San Francisco\n\n💬 ¿Quieres conversar sobre este partido conmig
+ o? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%2
+ 0%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Qatar%20vs%20Suiza%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Qatar vs Suiza empieza pronto.\n\n💬 ¿Quieres conversar sobr
+ e este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?tex
+ t=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Qat
+ ar%20vs%20Suiza%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-006@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260613T220000Z
+DTEND:20260613T234500Z
+SUMMARY:🇧🇷 Brasil vs 🇲🇦 Marruecos
+LOCATION:MetLife Stadium\, Nueva Jersey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Brasil%20vs%20Marruecos%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo C · Partido 6\nSede: MetLife St
+ adium\, Nueva Jersey\n\n💬 ¿Quieres conversar sobre este partido conmig
+ o? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%2
+ 0%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Brasil%20vs%20Marruecos%
+ 3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Brasil vs Marruecos empieza pronto.\n\n💬 ¿Quieres conversar
+  sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52332101535
+ 3?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%
+ 20Brasil%20vs%20Marruecos%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-007@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260614T010000Z
+DTEND:20260614T024500Z
+SUMMARY:🇭🇹 Haití vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia
+LOCATION:Gillette Stadium\, Boston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Hait%C3%AD%20vs%20Escocia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo C · Partido 7\nSede: Gillette S
+ tadium\, Boston\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pr
+ egúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%
+ BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Hait%C3%AD%20vs%20Escocia%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Haití vs Escocia empieza pronto.\n\n💬 ¿Quieres conversar s
+ obre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?
+ text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20
+ Hait%C3%AD%20vs%20Escocia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-008@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260614T040000Z
+DTEND:20260614T054500Z
+SUMMARY:🇦🇺 Australia vs 🇹🇷 Turquía
+LOCATION:BC Place\, Vancouver
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Australia%20vs%20Turqu%C3%ADa%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo D · Partido 8\nSede: BC Place\,
+  Vancouver\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pregún
+ tame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%
+ C3%A9%20opinas%20sobre%20el%20partido%20Australia%20vs%20Turqu%C3%ADa%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Australia vs Turquía empieza pronto.\n\n💬 ¿Quieres convers
+ ar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015
+ 353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partid
+ o%20Australia%20vs%20Turqu%C3%ADa%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-009@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260614T170000Z
+DTEND:20260614T184500Z
+SUMMARY:🇩🇪 Alemania vs 🇨🇼 Curazao
+LOCATION:NRG Stadium\, Houston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Alemania%20vs%20Curazao%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo E · Partido 9\nSede: NRG Stadiu
+ m\, Houston\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pregú
+ ntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu
+ %C3%A9%20opinas%20sobre%20el%20partido%20Alemania%20vs%20Curazao%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Alemania vs Curazao empieza pronto.\n\n💬 ¿Quieres conversar
+  sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52332101535
+ 3?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%
+ 20Alemania%20vs%20Curazao%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-010@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260614T200000Z
+DTEND:20260614T214500Z
+SUMMARY:🇳🇱 Países Bajos vs 🇯🇵 Japón
+LOCATION:AT&T Stadium\, Dallas
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Pa%C3%ADses%20Bajos%20vs%20Jap%C3%B3n%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo F · Partido 10\nSede: AT&T Stad
+ ium\, Dallas\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Pa%C3%ADses%20Bajos%20vs%20Jap%
+ C3%B3n%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Países Bajos vs Japón empieza pronto.\n\n💬 ¿Quieres conve
+ rsar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233210
+ 15353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20part
+ ido%20Pa%C3%ADses%20Bajos%20vs%20Jap%C3%B3n%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-011@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260614T230000Z
+DTEND:20260615T004500Z
+SUMMARY:🇨🇮 Costa de Marfil vs 🇪🇨 Ecuador
+LOCATION:Lincoln Financial Field\, Philadelphia
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Costa%20de%20Marfil%20vs%20Ecuador%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo E · Partido 11\nSede: Lincoln F
+ inancial Field\, Philadelphia\n\n💬 ¿Quieres conversar sobre este parti
+ do conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Med
+ rano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Costa%20de%20Ma
+ rfil%20vs%20Ecuador%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Costa de Marfil vs Ecuador empieza pronto.\n\n💬 ¿Quieres co
+ nversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233
+ 21015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20p
+ artido%20Costa%20de%20Marfil%20vs%20Ecuador%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-012@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260615T020000Z
+DTEND:20260615T034500Z
+SUMMARY:🇸🇪 Suecia vs 🇹🇳 Túnez
+LOCATION:Estadio BBVA\, Monterrey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Suecia%20vs%20T%C3%BAnez%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo F · Partido 12\nSede: Estadio B
+ BVA\, Monterrey\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pr
+ egúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%
+ BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Suecia%20vs%20T%C3%BAnez%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Suecia vs Túnez empieza pronto.\n\n💬 ¿Quieres conversar so
+ bre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?t
+ ext=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20S
+ uecia%20vs%20T%C3%BAnez%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-013@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260615T160000Z
+DTEND:20260615T174500Z
+SUMMARY:🇪🇸 España vs 🇨🇻 Cabo Verde
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Espa%C3%B1a%20vs%20Cabo%20Verde%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo H · Partido 13\nSede: Mercedes-
+ Benz Stadium\, Atlanta\n\n💬 ¿Quieres conversar sobre este partido conm
+ igo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C
+ %20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Espa%C3%B1a%20vs%20Cab
+ o%20Verde%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:España vs Cabo Verde empieza pronto.\n\n💬 ¿Quieres convers
+ ar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015
+ 353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partid
+ o%20Espa%C3%B1a%20vs%20Cabo%20Verde%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-014@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260615T190000Z
+DTEND:20260615T204500Z
+SUMMARY:🇧🇪 Bélgica vs 🇪🇬 Egipto
+LOCATION:Lumen Field\, Seattle
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20B%C3%A9lgica%20vs%20Egipto%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo G · Partido 14\nSede: Lumen Fie
+ ld\, Seattle\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20B%C3%A9lgica%20vs%20Egipto%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bélgica vs Egipto empieza pronto.\n\n💬 ¿Quieres conversar 
+ sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353
+ ?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2
+ 0B%C3%A9lgica%20vs%20Egipto%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-015@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260615T220000Z
+DTEND:20260615T234500Z
+SUMMARY:🇸🇦 Arabia Saudita vs 🇺🇾 Uruguay
+LOCATION:Hard Rock Stadium\, Miami
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Arabia%20Saudita%20vs%20Uruguay%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo H · Partido 15\nSede: Hard Rock
+  Stadium\, Miami\n\n💬 ¿Quieres conversar sobre este partido conmigo? P
+ regúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2
+ %BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Arabia%20Saudita%20vs%20Urug
+ uay%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arabia Saudita vs Uruguay empieza pronto.\n\n💬 ¿Quieres con
+ versar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52332
+ 1015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20pa
+ rtido%20Arabia%20Saudita%20vs%20Uruguay%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-016@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260616T010000Z
+DTEND:20260616T024500Z
+SUMMARY:🇮🇷 Irán vs 🇳🇿 Nueva Zelanda
+LOCATION:SoFi Stadium\, Los Ángeles
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Ir%C3%A1n%20vs%20Nueva%20Zelanda%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo G · Partido 16\nSede: SoFi Stad
+ ium\, Los Ángeles\n\n💬 ¿Quieres conversar sobre este partido conmigo?
+  Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%
+ C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Ir%C3%A1n%20vs%20Nueva%20Z
+ elanda%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Irán vs Nueva Zelanda empieza pronto.\n\n💬 ¿Quieres conver
+ sar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52332101
+ 5353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20parti
+ do%20Ir%C3%A1n%20vs%20Nueva%20Zelanda%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-017@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260616T190000Z
+DTEND:20260616T204500Z
+SUMMARY:🇫🇷 Francia vs 🇸🇳 Senegal
+LOCATION:MetLife Stadium\, Nueva Jersey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Francia%20vs%20Senegal%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo I · Partido 17\nSede: MetLife S
+ tadium\, Nueva Jersey\n\n💬 ¿Quieres conversar sobre este partido conmi
+ go? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%
+ 20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Francia%20vs%20Senegal%
+ 3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Francia vs Senegal empieza pronto.\n\n💬 ¿Quieres conversar 
+ sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353
+ ?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2
+ 0Francia%20vs%20Senegal%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-018@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260616T220000Z
+DTEND:20260616T234500Z
+SUMMARY:🇮🇶 Irak vs 🇳🇴 Noruega
+LOCATION:Gillette Stadium\, Boston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Irak%20vs%20Noruega%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo I · Partido 18\nSede: Gillette 
+ Stadium\, Boston\n\n💬 ¿Quieres conversar sobre este partido conmigo? P
+ regúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2
+ %BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Irak%20vs%20Noruega%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Irak vs Noruega empieza pronto.\n\n💬 ¿Quieres conversar sob
+ re este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?te
+ xt=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Ir
+ ak%20vs%20Noruega%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-019@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260617T010000Z
+DTEND:20260617T024500Z
+SUMMARY:🇦🇷 Argentina vs 🇩🇿 Argelia
+LOCATION:Arrowhead Stadium\, Kansas City
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Argentina%20vs%20Argelia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo J · Partido 19\nSede: Arrowhead
+  Stadium\, Kansas City\n\n💬 ¿Quieres conversar sobre este partido conm
+ igo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C
+ %20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Argentina%20vs%20Argel
+ ia%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Argentina vs Argelia empieza pronto.\n\n💬 ¿Quieres conversa
+ r sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233210153
+ 53?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido
+ %20Argentina%20vs%20Argelia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-020@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260617T040000Z
+DTEND:20260617T054500Z
+SUMMARY:🇦🇹 Austria vs 🇯🇴 Jordania
+LOCATION:Levi's Stadium\, San Francisco
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Austria%20vs%20Jordania%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo J · Partido 20\nSede: Levi's St
+ adium\, San Francisco\n\n💬 ¿Quieres conversar sobre este partido conmi
+ go? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%
+ 20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Austria%20vs%20Jordania
+ %3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Austria vs Jordania empieza pronto.\n\n💬 ¿Quieres conversar
+  sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52332101535
+ 3?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%
+ 20Austria%20vs%20Jordania%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-021@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260617T170000Z
+DTEND:20260617T184500Z
+SUMMARY:🇵🇹 Portugal vs 🇨🇩 RD del Congo
+LOCATION:NRG Stadium\, Houston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Portugal%20vs%20RD%20del%20Congo%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo K · Partido 21\nSede: NRG Stadi
+ um\, Houston\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Portugal%20vs%20RD%20del%20Cong
+ o%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Portugal vs RD del Congo empieza pronto.\n\n💬 ¿Quieres conv
+ ersar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321
+ 015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20par
+ tido%20Portugal%20vs%20RD%20del%20Congo%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-022@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260617T200000Z
+DTEND:20260617T214500Z
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra vs 🇭🇷 Croacia
+LOCATION:AT&T Stadium\, Dallas
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Inglaterra%20vs%20Croacia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo L · Partido 22\nSede: AT&T Stad
+ ium\, Dallas\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Inglaterra%20vs%20Croacia%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inglaterra vs Croacia empieza pronto.\n\n💬 ¿Quieres convers
+ ar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015
+ 353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partid
+ o%20Inglaterra%20vs%20Croacia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-023@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260617T230000Z
+DTEND:20260618T004500Z
+SUMMARY:🇬🇭 Ghana vs 🇵🇦 Panamá
+LOCATION:BMO Field\, Toronto
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Ghana%20vs%20Panam%C3%A1%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo L · Partido 23\nSede: BMO Field
+ \, Toronto\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pregún
+ tame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%
+ C3%A9%20opinas%20sobre%20el%20partido%20Ghana%20vs%20Panam%C3%A1%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ghana vs Panamá empieza pronto.\n\n💬 ¿Quieres conversar so
+ bre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?t
+ ext=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20G
+ hana%20vs%20Panam%C3%A1%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-024@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260618T020000Z
+DTEND:20260618T034500Z
+SUMMARY:🇺🇿 Uzbekistán vs 🇨🇴 Colombia
+LOCATION:Estadio Ciudad de México\, CDMX
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Uzbekist%C3%A1n%20vs%20Colombia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo K · Partido 24\nSede: Estadio C
+ iudad de México\, CDMX\n\n💬 ¿Quieres conversar sobre este partido con
+ migo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2
+ C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Uzbekist%C3%A1n%20vs%
+ 20Colombia%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Uzbekistán vs Colombia empieza pronto.\n\n💬 ¿Quieres conve
+ rsar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233210
+ 15353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20part
+ ido%20Uzbekist%C3%A1n%20vs%20Colombia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-025@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260618T160000Z
+DTEND:20260618T174500Z
+SUMMARY:🇨🇿 República Checa vs 🇿🇦 Sudáfrica
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Rep%C3%BAblica%20Checa%20vs%20Sud%C3%A1frica
+ %3F
+DESCRIPTION:Pregúntale a Medrano · Grupo A · Partido 25\nSede: Mercedes-
+ Benz Stadium\, Atlanta\n\n💬 ¿Quieres conversar sobre este partido conm
+ igo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C
+ %20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Rep%C3%BAblica%20Checa
+ %20vs%20Sud%C3%A1frica%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:República Checa vs Sudáfrica empieza pronto.\n\n💬 ¿Quiere
+ s conversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/
+ 523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el
+ %20partido%20Rep%C3%BAblica%20Checa%20vs%20Sud%C3%A1frica%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-026@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260618T190000Z
+DTEND:20260618T204500Z
+SUMMARY:🇨🇭 Suiza vs 🇧🇦 Bosnia y Herzegovina
+LOCATION:SoFi Stadium\, Los Ángeles
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Suiza%20vs%20Bosnia%20y%20Herzegovina%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo B · Partido 26\nSede: SoFi Stad
+ ium\, Los Ángeles\n\n💬 ¿Quieres conversar sobre este partido conmigo?
+  Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%
+ C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Suiza%20vs%20Bosnia%20y%20
+ Herzegovina%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Suiza vs Bosnia y Herzegovina empieza pronto.\n\n💬 ¿Quieres
+  conversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5
+ 23321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%
+ 20partido%20Suiza%20vs%20Bosnia%20y%20Herzegovina%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-027@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260618T220000Z
+DTEND:20260618T234500Z
+SUMMARY:🇨🇦 Canadá vs 🇶🇦 Qatar
+LOCATION:BC Place\, Vancouver
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Canad%C3%A1%20vs%20Qatar%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo B · Partido 27\nSede: BC Place\
+ , Vancouver\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pregú
+ ntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu
+ %C3%A9%20opinas%20sobre%20el%20partido%20Canad%C3%A1%20vs%20Qatar%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canadá vs Qatar empieza pronto.\n\n💬 ¿Quieres conversar so
+ bre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?t
+ ext=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20C
+ anad%C3%A1%20vs%20Qatar%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-028@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260619T010000Z
+DTEND:20260619T024500Z
+SUMMARY:🇲🇽 México vs 🇰🇷 Corea del Sur
+LOCATION:Estadio Akron\, Guadalajara
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20M%C3%A9xico%20vs%20Corea%20del%20Sur%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo A · Partido 28\nSede: Estadio A
+ kron\, Guadalajara\n\n💬 ¿Quieres conversar sobre este partido conmigo?
+  Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%
+ C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20M%C3%A9xico%20vs%20Corea%2
+ 0del%20Sur%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:México vs Corea del Sur empieza pronto.\n\n💬 ¿Quieres conv
+ ersar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321
+ 015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20par
+ tido%20M%C3%A9xico%20vs%20Corea%20del%20Sur%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-029@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260619T190000Z
+DTEND:20260619T204500Z
+SUMMARY:🇺🇸 Estados Unidos vs 🇦🇺 Australia
+LOCATION:Lumen Field\, Seattle
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Estados%20Unidos%20vs%20Australia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo D · Partido 29\nSede: Lumen Fie
+ ld\, Seattle\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Estados%20Unidos%20vs%20Austral
+ ia%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Estados Unidos vs Australia empieza pronto.\n\n💬 ¿Quieres c
+ onversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523
+ 321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20
+ partido%20Estados%20Unidos%20vs%20Australia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-030@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260619T220000Z
+DTEND:20260619T234500Z
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia vs 🇲🇦 Marruecos
+LOCATION:Gillette Stadium\, Boston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Escocia%20vs%20Marruecos%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo C · Partido 30\nSede: Gillette 
+ Stadium\, Boston\n\n💬 ¿Quieres conversar sobre este partido conmigo? P
+ regúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2
+ %BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Escocia%20vs%20Marruecos%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Escocia vs Marruecos empieza pronto.\n\n💬 ¿Quieres conversa
+ r sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233210153
+ 53?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido
+ %20Escocia%20vs%20Marruecos%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-031@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260620T003000Z
+DTEND:20260620T021500Z
+SUMMARY:🇧🇷 Brasil vs 🇭🇹 Haití
+LOCATION:Lincoln Financial Field\, Philadelphia
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Brasil%20vs%20Hait%C3%AD%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo C · Partido 31\nSede: Lincoln F
+ inancial Field\, Philadelphia\n\n💬 ¿Quieres conversar sobre este parti
+ do conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Med
+ rano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Brasil%20vs%20H
+ ait%C3%AD%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Brasil vs Haití empieza pronto.\n\n💬 ¿Quieres conversar so
+ bre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?t
+ ext=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20B
+ rasil%20vs%20Hait%C3%AD%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-032@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260620T030000Z
+DTEND:20260620T044500Z
+SUMMARY:🇹🇷 Turquía vs 🇵🇾 Paraguay
+LOCATION:Levi's Stadium\, San Francisco
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Turqu%C3%ADa%20vs%20Paraguay%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo D · Partido 32\nSede: Levi's St
+ adium\, San Francisco\n\n💬 ¿Quieres conversar sobre este partido conmi
+ go? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%
+ 20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Turqu%C3%ADa%20vs%20Par
+ aguay%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Turquía vs Paraguay empieza pronto.\n\n💬 ¿Quieres conversa
+ r sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233210153
+ 53?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido
+ %20Turqu%C3%ADa%20vs%20Paraguay%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-033@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260620T170000Z
+DTEND:20260620T184500Z
+SUMMARY:🇳🇱 Países Bajos vs 🇸🇪 Suecia
+LOCATION:NRG Stadium\, Houston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Pa%C3%ADses%20Bajos%20vs%20Suecia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo F · Partido 33\nSede: NRG Stadi
+ um\, Houston\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Pa%C3%ADses%20Bajos%20vs%20Suec
+ ia%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Países Bajos vs Suecia empieza pronto.\n\n💬 ¿Quieres conve
+ rsar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233210
+ 15353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20part
+ ido%20Pa%C3%ADses%20Bajos%20vs%20Suecia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-034@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260620T200000Z
+DTEND:20260620T214500Z
+SUMMARY:🇩🇪 Alemania vs 🇨🇮 Costa de Marfil
+LOCATION:BMO Field\, Toronto
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Alemania%20vs%20Costa%20de%20Marfil%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo E · Partido 34\nSede: BMO Field
+ \, Toronto\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pregún
+ tame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%
+ C3%A9%20opinas%20sobre%20el%20partido%20Alemania%20vs%20Costa%20de%20Marfi
+ l%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Alemania vs Costa de Marfil empieza pronto.\n\n💬 ¿Quieres c
+ onversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523
+ 321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20
+ partido%20Alemania%20vs%20Costa%20de%20Marfil%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-035@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260621T020000Z
+DTEND:20260621T034500Z
+SUMMARY:🇪🇨 Ecuador vs 🇨🇼 Curazao
+LOCATION:Arrowhead Stadium\, Kansas City
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Ecuador%20vs%20Curazao%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo E · Partido 35\nSede: Arrowhead
+  Stadium\, Kansas City\n\n💬 ¿Quieres conversar sobre este partido conm
+ igo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C
+ %20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Ecuador%20vs%20Curazao
+ %3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ecuador vs Curazao empieza pronto.\n\n💬 ¿Quieres conversar 
+ sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353
+ ?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2
+ 0Ecuador%20vs%20Curazao%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-036@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260621T040000Z
+DTEND:20260621T054500Z
+SUMMARY:🇹🇳 Túnez vs 🇯🇵 Japón
+LOCATION:Estadio BBVA\, Monterrey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20T%C3%BAnez%20vs%20Jap%C3%B3n%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo F · Partido 36\nSede: Estadio B
+ BVA\, Monterrey\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pr
+ egúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%
+ BFqu%C3%A9%20opinas%20sobre%20el%20partido%20T%C3%BAnez%20vs%20Jap%C3%B3n%
+ 3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Túnez vs Japón empieza pronto.\n\n💬 ¿Quieres conversar so
+ bre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?t
+ ext=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20T
+ %C3%BAnez%20vs%20Jap%C3%B3n%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-037@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260621T160000Z
+DTEND:20260621T174500Z
+SUMMARY:🇪🇸 España vs 🇸🇦 Arabia Saudita
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Espa%C3%B1a%20vs%20Arabia%20Saudita%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo H · Partido 37\nSede: Mercedes-
+ Benz Stadium\, Atlanta\n\n💬 ¿Quieres conversar sobre este partido conm
+ igo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C
+ %20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Espa%C3%B1a%20vs%20Ara
+ bia%20Saudita%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:España vs Arabia Saudita empieza pronto.\n\n💬 ¿Quieres con
+ versar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52332
+ 1015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20pa
+ rtido%20Espa%C3%B1a%20vs%20Arabia%20Saudita%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-038@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260621T190000Z
+DTEND:20260621T204500Z
+SUMMARY:🇧🇪 Bélgica vs 🇮🇷 Irán
+LOCATION:SoFi Stadium\, Los Ángeles
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20B%C3%A9lgica%20vs%20Ir%C3%A1n%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo G · Partido 38\nSede: SoFi Stad
+ ium\, Los Ángeles\n\n💬 ¿Quieres conversar sobre este partido conmigo?
+  Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%
+ C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20B%C3%A9lgica%20vs%20Ir%C3%
+ A1n%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bélgica vs Irán empieza pronto.\n\n💬 ¿Quieres conversar s
+ obre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?
+ text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20
+ B%C3%A9lgica%20vs%20Ir%C3%A1n%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-039@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260621T220000Z
+DTEND:20260621T234500Z
+SUMMARY:🇺🇾 Uruguay vs 🇨🇻 Cabo Verde
+LOCATION:Hard Rock Stadium\, Miami
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Uruguay%20vs%20Cabo%20Verde%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo H · Partido 39\nSede: Hard Rock
+  Stadium\, Miami\n\n💬 ¿Quieres conversar sobre este partido conmigo? P
+ regúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2
+ %BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Uruguay%20vs%20Cabo%20Verde%
+ 3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Uruguay vs Cabo Verde empieza pronto.\n\n💬 ¿Quieres convers
+ ar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015
+ 353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partid
+ o%20Uruguay%20vs%20Cabo%20Verde%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-040@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260622T010000Z
+DTEND:20260622T024500Z
+SUMMARY:🇳🇿 Nueva Zelanda vs 🇪🇬 Egipto
+LOCATION:BC Place\, Vancouver
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Nueva%20Zelanda%20vs%20Egipto%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo G · Partido 40\nSede: BC Place\
+ , Vancouver\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pregú
+ ntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu
+ %C3%A9%20opinas%20sobre%20el%20partido%20Nueva%20Zelanda%20vs%20Egipto%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nueva Zelanda vs Egipto empieza pronto.\n\n💬 ¿Quieres conve
+ rsar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233210
+ 15353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20part
+ ido%20Nueva%20Zelanda%20vs%20Egipto%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-041@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260622T170000Z
+DTEND:20260622T184500Z
+SUMMARY:🇦🇷 Argentina vs 🇦🇹 Austria
+LOCATION:AT&T Stadium\, Dallas
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Argentina%20vs%20Austria%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo J · Partido 41\nSede: AT&T Stad
+ ium\, Dallas\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Argentina%20vs%20Austria%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Argentina vs Austria empieza pronto.\n\n💬 ¿Quieres conversa
+ r sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233210153
+ 53?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido
+ %20Argentina%20vs%20Austria%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-042@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260622T210000Z
+DTEND:20260622T224500Z
+SUMMARY:🇫🇷 Francia vs 🇮🇶 Irak
+LOCATION:Lincoln Financial Field\, Philadelphia
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Francia%20vs%20Irak%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo I · Partido 42\nSede: Lincoln F
+ inancial Field\, Philadelphia\n\n💬 ¿Quieres conversar sobre este parti
+ do conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Med
+ rano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Francia%20vs%20
+ Irak%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Francia vs Irak empieza pronto.\n\n💬 ¿Quieres conversar sob
+ re este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?te
+ xt=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Fr
+ ancia%20vs%20Irak%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-043@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260623T000000Z
+DTEND:20260623T014500Z
+SUMMARY:🇳🇴 Noruega vs 🇸🇳 Senegal
+LOCATION:MetLife Stadium\, Nueva Jersey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Noruega%20vs%20Senegal%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo I · Partido 43\nSede: MetLife S
+ tadium\, Nueva Jersey\n\n💬 ¿Quieres conversar sobre este partido conmi
+ go? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%
+ 20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Noruega%20vs%20Senegal%
+ 3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Noruega vs Senegal empieza pronto.\n\n💬 ¿Quieres conversar 
+ sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353
+ ?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2
+ 0Noruega%20vs%20Senegal%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-044@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260623T030000Z
+DTEND:20260623T044500Z
+SUMMARY:🇯🇴 Jordania vs 🇩🇿 Argelia
+LOCATION:Levi's Stadium\, San Francisco
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Jordania%20vs%20Argelia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo J · Partido 44\nSede: Levi's St
+ adium\, San Francisco\n\n💬 ¿Quieres conversar sobre este partido conmi
+ go? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%
+ 20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Jordania%20vs%20Argelia
+ %3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jordania vs Argelia empieza pronto.\n\n💬 ¿Quieres conversar
+  sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52332101535
+ 3?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%
+ 20Jordania%20vs%20Argelia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-045@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260623T170000Z
+DTEND:20260623T184500Z
+SUMMARY:🇵🇹 Portugal vs 🇺🇿 Uzbekistán
+LOCATION:NRG Stadium\, Houston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Portugal%20vs%20Uzbekist%C3%A1n%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo K · Partido 45\nSede: NRG Stadi
+ um\, Houston\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Portugal%20vs%20Uzbekist%C3%A1n
+ %3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Portugal vs Uzbekistán empieza pronto.\n\n💬 ¿Quieres conve
+ rsar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233210
+ 15353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20part
+ ido%20Portugal%20vs%20Uzbekist%C3%A1n%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-046@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260623T200000Z
+DTEND:20260623T214500Z
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra vs 🇬🇭 Ghana
+LOCATION:Gillette Stadium\, Boston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Inglaterra%20vs%20Ghana%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo L · Partido 46\nSede: Gillette 
+ Stadium\, Boston\n\n💬 ¿Quieres conversar sobre este partido conmigo? P
+ regúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2
+ %BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Inglaterra%20vs%20Ghana%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inglaterra vs Ghana empieza pronto.\n\n💬 ¿Quieres conversar
+  sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52332101535
+ 3?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%
+ 20Inglaterra%20vs%20Ghana%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-047@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260623T230000Z
+DTEND:20260624T004500Z
+SUMMARY:🇵🇦 Panamá vs 🇭🇷 Croacia
+LOCATION:BMO Field\, Toronto
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Panam%C3%A1%20vs%20Croacia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo L · Partido 47\nSede: BMO Field
+ \, Toronto\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pregún
+ tame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%
+ C3%A9%20opinas%20sobre%20el%20partido%20Panam%C3%A1%20vs%20Croacia%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Panamá vs Croacia empieza pronto.\n\n💬 ¿Quieres conversar 
+ sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353
+ ?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2
+ 0Panam%C3%A1%20vs%20Croacia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-048@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260624T020000Z
+DTEND:20260624T034500Z
+SUMMARY:🇨🇴 Colombia vs 🇨🇩 RD del Congo
+LOCATION:Estadio Akron\, Guadalajara
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Colombia%20vs%20RD%20del%20Congo%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo K · Partido 48\nSede: Estadio A
+ kron\, Guadalajara\n\n💬 ¿Quieres conversar sobre este partido conmigo?
+  Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%
+ C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Colombia%20vs%20RD%20del%2
+ 0Congo%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Colombia vs RD del Congo empieza pronto.\n\n💬 ¿Quieres conv
+ ersar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321
+ 015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20par
+ tido%20Colombia%20vs%20RD%20del%20Congo%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-049@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260624T190000Z
+DTEND:20260624T204500Z
+SUMMARY:🇨🇭 Suiza vs 🇨🇦 Canadá
+LOCATION:BC Place\, Vancouver
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Suiza%20vs%20Canad%C3%A1%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo B · Partido 49\nSede: BC Place\
+ , Vancouver\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pregú
+ ntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu
+ %C3%A9%20opinas%20sobre%20el%20partido%20Suiza%20vs%20Canad%C3%A1%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Suiza vs Canadá empieza pronto.\n\n💬 ¿Quieres conversar so
+ bre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?t
+ ext=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20S
+ uiza%20vs%20Canad%C3%A1%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-050@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260624T190000Z
+DTEND:20260624T204500Z
+SUMMARY:🇧🇦 Bosnia y Herzegovina vs 🇶🇦 Qatar
+LOCATION:Lumen Field\, Seattle
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Bosnia%20y%20Herzegovina%20vs%20Qatar%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo B · Partido 50\nSede: Lumen Fie
+ ld\, Seattle\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Bosnia%20y%20Herzegovina%20vs%2
+ 0Qatar%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bosnia y Herzegovina vs Qatar empieza pronto.\n\n💬 ¿Quieres
+  conversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5
+ 23321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%
+ 20partido%20Bosnia%20y%20Herzegovina%20vs%20Qatar%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-051@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260624T220000Z
+DTEND:20260624T234500Z
+SUMMARY:🇲🇦 Marruecos vs 🇭🇹 Haití
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Marruecos%20vs%20Hait%C3%AD%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo C · Partido 51\nSede: Mercedes-
+ Benz Stadium\, Atlanta\n\n💬 ¿Quieres conversar sobre este partido conm
+ igo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C
+ %20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Marruecos%20vs%20Hait%
+ C3%AD%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Marruecos vs Haití empieza pronto.\n\n💬 ¿Quieres conversar
+  sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52332101535
+ 3?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%
+ 20Marruecos%20vs%20Hait%C3%AD%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-052@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260624T220000Z
+DTEND:20260624T234500Z
+SUMMARY:🇧🇷 Brasil vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia
+LOCATION:Hard Rock Stadium\, Miami
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Brasil%20vs%20Escocia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo C · Partido 52\nSede: Hard Rock
+  Stadium\, Miami\n\n💬 ¿Quieres conversar sobre este partido conmigo? P
+ regúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2
+ %BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Brasil%20vs%20Escocia%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Brasil vs Escocia empieza pronto.\n\n💬 ¿Quieres conversar s
+ obre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?
+ text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20
+ Brasil%20vs%20Escocia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-053@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260625T010000Z
+DTEND:20260625T024500Z
+SUMMARY:🇿🇦 Sudáfrica vs 🇰🇷 Corea del Sur
+LOCATION:Estadio BBVA\, Monterrey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Sud%C3%A1frica%20vs%20Corea%20del%20Sur%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo A · Partido 53\nSede: Estadio B
+ BVA\, Monterrey\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pr
+ egúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%
+ BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Sud%C3%A1frica%20vs%20Corea%2
+ 0del%20Sur%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sudáfrica vs Corea del Sur empieza pronto.\n\n💬 ¿Quieres c
+ onversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523
+ 321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20
+ partido%20Sud%C3%A1frica%20vs%20Corea%20del%20Sur%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-054@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260625T010000Z
+DTEND:20260625T024500Z
+SUMMARY:🇨🇿 República Checa vs 🇲🇽 México
+LOCATION:Estadio Ciudad de México\, CDMX
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Rep%C3%BAblica%20Checa%20vs%20M%C3%A9xico%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo A · Partido 54\nSede: Estadio C
+ iudad de México\, CDMX\n\n💬 ¿Quieres conversar sobre este partido con
+ migo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2
+ C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Rep%C3%BAblica%20Chec
+ a%20vs%20M%C3%A9xico%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:República Checa vs México empieza pronto.\n\n💬 ¿Quieres c
+ onversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523
+ 321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20
+ partido%20Rep%C3%BAblica%20Checa%20vs%20M%C3%A9xico%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-055@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260625T200000Z
+DTEND:20260625T214500Z
+SUMMARY:🇨🇼 Curazao vs 🇨🇮 Costa de Marfil
+LOCATION:Lincoln Financial Field\, Philadelphia
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Curazao%20vs%20Costa%20de%20Marfil%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo E · Partido 55\nSede: Lincoln F
+ inancial Field\, Philadelphia\n\n💬 ¿Quieres conversar sobre este parti
+ do conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Med
+ rano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Curazao%20vs%20
+ Costa%20de%20Marfil%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Curazao vs Costa de Marfil empieza pronto.\n\n💬 ¿Quieres co
+ nversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233
+ 21015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20p
+ artido%20Curazao%20vs%20Costa%20de%20Marfil%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-056@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260625T200000Z
+DTEND:20260625T214500Z
+SUMMARY:🇪🇨 Ecuador vs 🇩🇪 Alemania
+LOCATION:MetLife Stadium\, Nueva Jersey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Ecuador%20vs%20Alemania%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo E · Partido 56\nSede: MetLife S
+ tadium\, Nueva Jersey\n\n💬 ¿Quieres conversar sobre este partido conmi
+ go? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%
+ 20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Ecuador%20vs%20Alemania
+ %3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ecuador vs Alemania empieza pronto.\n\n💬 ¿Quieres conversar
+  sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52332101535
+ 3?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%
+ 20Ecuador%20vs%20Alemania%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-057@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260625T230000Z
+DTEND:20260626T004500Z
+SUMMARY:🇯🇵 Japón vs 🇸🇪 Suecia
+LOCATION:AT&T Stadium\, Dallas
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Jap%C3%B3n%20vs%20Suecia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo F · Partido 57\nSede: AT&T Stad
+ ium\, Dallas\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Jap%C3%B3n%20vs%20Suecia%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Japón vs Suecia empieza pronto.\n\n💬 ¿Quieres conversar so
+ bre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?t
+ ext=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20J
+ ap%C3%B3n%20vs%20Suecia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-058@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260625T230000Z
+DTEND:20260626T004500Z
+SUMMARY:🇹🇳 Túnez vs 🇳🇱 Países Bajos
+LOCATION:Arrowhead Stadium\, Kansas City
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20T%C3%BAnez%20vs%20Pa%C3%ADses%20Bajos%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo F · Partido 58\nSede: Arrowhead
+  Stadium\, Kansas City\n\n💬 ¿Quieres conversar sobre este partido conm
+ igo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C
+ %20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20T%C3%BAnez%20vs%20Pa%C
+ 3%ADses%20Bajos%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Túnez vs Países Bajos empieza pronto.\n\n💬 ¿Quieres conve
+ rsar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233210
+ 15353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20part
+ ido%20T%C3%BAnez%20vs%20Pa%C3%ADses%20Bajos%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-059@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260626T020000Z
+DTEND:20260626T034500Z
+SUMMARY:🇵🇾 Paraguay vs 🇦🇺 Australia
+LOCATION:Levi's Stadium\, San Francisco
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Paraguay%20vs%20Australia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo D · Partido 59\nSede: Levi's St
+ adium\, San Francisco\n\n💬 ¿Quieres conversar sobre este partido conmi
+ go? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%
+ 20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Paraguay%20vs%20Austral
+ ia%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Paraguay vs Australia empieza pronto.\n\n💬 ¿Quieres convers
+ ar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015
+ 353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partid
+ o%20Paraguay%20vs%20Australia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-060@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260626T020000Z
+DTEND:20260626T034500Z
+SUMMARY:🇹🇷 Turquía vs 🇺🇸 Estados Unidos
+LOCATION:SoFi Stadium\, Los Ángeles
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Turqu%C3%ADa%20vs%20Estados%20Unidos%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo D · Partido 60\nSede: SoFi Stad
+ ium\, Los Ángeles\n\n💬 ¿Quieres conversar sobre este partido conmigo?
+  Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%
+ C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Turqu%C3%ADa%20vs%20Estado
+ s%20Unidos%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Turquía vs Estados Unidos empieza pronto.\n\n💬 ¿Quieres co
+ nversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233
+ 21015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20p
+ artido%20Turqu%C3%ADa%20vs%20Estados%20Unidos%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-061@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T204500Z
+SUMMARY:🇳🇴 Noruega vs 🇫🇷 Francia
+LOCATION:Gillette Stadium\, Boston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Noruega%20vs%20Francia%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo I · Partido 61\nSede: Gillette 
+ Stadium\, Boston\n\n💬 ¿Quieres conversar sobre este partido conmigo? P
+ regúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2
+ %BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Noruega%20vs%20Francia%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Noruega vs Francia empieza pronto.\n\n💬 ¿Quieres conversar 
+ sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353
+ ?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2
+ 0Noruega%20vs%20Francia%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-062@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260626T190000Z
+DTEND:20260626T204500Z
+SUMMARY:🇸🇳 Senegal vs 🇮🇶 Irak
+LOCATION:BMO Field\, Toronto
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Senegal%20vs%20Irak%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo I · Partido 62\nSede: BMO Field
+ \, Toronto\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pregún
+ tame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%
+ C3%A9%20opinas%20sobre%20el%20partido%20Senegal%20vs%20Irak%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Senegal vs Irak empieza pronto.\n\n💬 ¿Quieres conversar sob
+ re este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?te
+ xt=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Se
+ negal%20vs%20Irak%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-063@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260627T000000Z
+DTEND:20260627T014500Z
+SUMMARY:🇨🇻 Cabo Verde vs 🇸🇦 Arabia Saudita
+LOCATION:NRG Stadium\, Houston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Cabo%20Verde%20vs%20Arabia%20Saudita%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo H · Partido 63\nSede: NRG Stadi
+ um\, Houston\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Cabo%20Verde%20vs%20Arabia%20Sa
+ udita%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cabo Verde vs Arabia Saudita empieza pronto.\n\n💬 ¿Quieres 
+ conversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52
+ 3321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%2
+ 0partido%20Cabo%20Verde%20vs%20Arabia%20Saudita%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-064@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260627T000000Z
+DTEND:20260627T014500Z
+SUMMARY:🇺🇾 Uruguay vs 🇪🇸 España
+LOCATION:Estadio Akron\, Guadalajara
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Uruguay%20vs%20Espa%C3%B1a%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo H · Partido 64\nSede: Estadio A
+ kron\, Guadalajara\n\n💬 ¿Quieres conversar sobre este partido conmigo?
+  Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%
+ C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Uruguay%20vs%20Espa%C3%B1a
+ %3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Uruguay vs España empieza pronto.\n\n💬 ¿Quieres conversar 
+ sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353
+ ?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2
+ 0Uruguay%20vs%20Espa%C3%B1a%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-065@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260627T030000Z
+DTEND:20260627T044500Z
+SUMMARY:🇪🇬 Egipto vs 🇮🇷 Irán
+LOCATION:Lumen Field\, Seattle
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Egipto%20vs%20Ir%C3%A1n%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo G · Partido 65\nSede: Lumen Fie
+ ld\, Seattle\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Egipto%20vs%20Ir%C3%A1n%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Egipto vs Irán empieza pronto.\n\n💬 ¿Quieres conversar sob
+ re este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?te
+ xt=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Eg
+ ipto%20vs%20Ir%C3%A1n%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-066@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260627T030000Z
+DTEND:20260627T044500Z
+SUMMARY:🇳🇿 Nueva Zelanda vs 🇧🇪 Bélgica
+LOCATION:BC Place\, Vancouver
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Nueva%20Zelanda%20vs%20B%C3%A9lgica%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo G · Partido 66\nSede: BC Place\
+ , Vancouver\n\n💬 ¿Quieres conversar sobre este partido conmigo? Pregú
+ ntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu
+ %C3%A9%20opinas%20sobre%20el%20partido%20Nueva%20Zelanda%20vs%20B%C3%A9lgi
+ ca%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nueva Zelanda vs Bélgica empieza pronto.\n\n💬 ¿Quieres con
+ versar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/52332
+ 1015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20pa
+ rtido%20Nueva%20Zelanda%20vs%20B%C3%A9lgica%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-067@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260627T210000Z
+DTEND:20260627T224500Z
+SUMMARY:🇭🇷 Croacia vs 🇬🇭 Ghana
+LOCATION:Lincoln Financial Field\, Philadelphia
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Croacia%20vs%20Ghana%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo L · Partido 67\nSede: Lincoln F
+ inancial Field\, Philadelphia\n\n💬 ¿Quieres conversar sobre este parti
+ do conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Med
+ rano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Croacia%20vs%20
+ Ghana%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Croacia vs Ghana empieza pronto.\n\n💬 ¿Quieres conversar so
+ bre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?t
+ ext=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20C
+ roacia%20vs%20Ghana%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-068@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260627T210000Z
+DTEND:20260627T224500Z
+SUMMARY:🇵🇦 Panamá vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
+LOCATION:MetLife Stadium\, Nueva Jersey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Panam%C3%A1%20vs%20Inglaterra%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo L · Partido 68\nSede: MetLife S
+ tadium\, Nueva Jersey\n\n💬 ¿Quieres conversar sobre este partido conmi
+ go? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%
+ 20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Panam%C3%A1%20vs%20Ingl
+ aterra%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Panamá vs Inglaterra empieza pronto.\n\n💬 ¿Quieres convers
+ ar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015
+ 353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partid
+ o%20Panam%C3%A1%20vs%20Inglaterra%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-069@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260627T233000Z
+DTEND:20260628T011500Z
+SUMMARY:🇨🇴 Colombia vs 🇵🇹 Portugal
+LOCATION:Hard Rock Stadium\, Miami
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Colombia%20vs%20Portugal%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo K · Partido 69\nSede: Hard Rock
+  Stadium\, Miami\n\n💬 ¿Quieres conversar sobre este partido conmigo? P
+ regúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2
+ %BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Colombia%20vs%20Portugal%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Colombia vs Portugal empieza pronto.\n\n💬 ¿Quieres conversa
+ r sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/5233210153
+ 53?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido
+ %20Colombia%20vs%20Portugal%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-070@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260627T233000Z
+DTEND:20260628T011500Z
+SUMMARY:🇨🇩 RD del Congo vs 🇺🇿 Uzbekistán
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20RD%20del%20Congo%20vs%20Uzbekist%C3%A1n%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo K · Partido 70\nSede: Mercedes-
+ Benz Stadium\, Atlanta\n\n💬 ¿Quieres conversar sobre este partido conm
+ igo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C
+ %20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20RD%20del%20Congo%20vs%
+ 20Uzbekist%C3%A1n%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RD del Congo vs Uzbekistán empieza pronto.\n\n💬 ¿Quieres c
+ onversar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523
+ 321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20
+ partido%20RD%20del%20Congo%20vs%20Uzbekist%C3%A1n%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-071@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260628T020000Z
+DTEND:20260628T034500Z
+SUMMARY:🇩🇿 Argelia vs 🇦🇹 Austria
+LOCATION:Arrowhead Stadium\, Kansas City
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Argelia%20vs%20Austria%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo J · Partido 71\nSede: Arrowhead
+  Stadium\, Kansas City\n\n💬 ¿Quieres conversar sobre este partido conm
+ igo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C
+ %20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Argelia%20vs%20Austria
+ %3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Argelia vs Austria empieza pronto.\n\n💬 ¿Quieres conversar 
+ sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353
+ ?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2
+ 0Argelia%20vs%20Austria%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-072@medrano
+DTSTAMP:20260608T000000Z
+DTSTART:20260628T020000Z
+DTEND:20260628T034500Z
+SUMMARY:🇯🇴 Jordania vs 🇦🇷 Argentina
+LOCATION:AT&T Stadium\, Dallas
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Jordania%20vs%20Argentina%3F
+DESCRIPTION:Pregúntale a Medrano · Grupo J · Partido 72\nSede: AT&T Stad
+ ium\, Dallas\n\n💬 ¿Quieres conversar sobre este partido conmigo? Preg
+ úntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BF
+ qu%C3%A9%20opinas%20sobre%20el%20partido%20Jordania%20vs%20Argentina%3F
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jordania vs Argentina empieza pronto.\n\n💬 ¿Quieres convers
+ ar sobre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015
+ 353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partid
+ o%20Jordania%20vs%20Argentina%3F
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-073@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260628
+SUMMARY:⚽ 16avos de final · 2º Grupo A vs 2º Grupo B
+LOCATION:SoFi Stadium\, Los Ángeles
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P73)\n2º Grupo A vs 
+ 2º Grupo B\nSede: SoFi Stadium\, Los Ángeles\nHora por confirmar (depend
+ e de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este par
+ tido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20M
+ edrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos%20de%2
+ 0final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-074@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260629
+SUMMARY:⚽ 16avos de final · 1º Grupo E vs 3º (A/B/C/D/F)
+LOCATION:Gillette Stadium\, Boston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P74)\n1º Grupo E vs 
+ 3º (A/B/C/D/F)\nSede: Gillette Stadium\, Boston\nHora por confirmar (depe
+ nde de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este p
+ artido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%2
+ 0Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos%20de
+ %20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-075@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260629
+SUMMARY:⚽ 16avos de final · 1º Grupo F vs 2º Grupo C
+LOCATION:Estadio BBVA\, Monterrey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P75)\n1º Grupo F vs 
+ 2º Grupo C\nSede: Estadio BBVA\, Monterrey\nHora por confirmar (depende d
+ e los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este partid
+ o conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medr
+ ano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos%20de%20fi
+ nal%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-076@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260629
+SUMMARY:⚽ 16avos de final · 1º Grupo C vs 2º Grupo F
+LOCATION:NRG Stadium\, Houston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P76)\n1º Grupo C vs 
+ 2º Grupo F\nSede: NRG Stadium\, Houston\nHora por confirmar (depende de l
+ os equipos clasificados).\n\n💬 ¿Quieres conversar sobre este partido c
+ onmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano
+ %2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos%20de%20final
+ %3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-077@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260630
+SUMMARY:⚽ 16avos de final · 1º Grupo I vs 3º (C/D/F/G/H)
+LOCATION:MetLife Stadium\, Nueva Jersey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P77)\n1º Grupo I vs 
+ 3º (C/D/F/G/H)\nSede: MetLife Stadium\, Nueva Jersey\nHora por confirmar 
+ (depende de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre e
+ ste partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=H
+ ola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos
+ %20de%20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-078@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260630
+SUMMARY:⚽ 16avos de final · 2º Grupo E vs 2º Grupo I
+LOCATION:AT&T Stadium\, Dallas
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P78)\n2º Grupo E vs 
+ 2º Grupo I\nSede: AT&T Stadium\, Dallas\nHora por confirmar (depende de l
+ os equipos clasificados).\n\n💬 ¿Quieres conversar sobre este partido c
+ onmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano
+ %2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos%20de%20final
+ %3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-079@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260630
+SUMMARY:⚽ 16avos de final · 1º Grupo A vs 3º (C/E/F/H/I)
+LOCATION:Estadio Ciudad de México\, CDMX
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P79)\n1º Grupo A vs 
+ 3º (C/E/F/H/I)\nSede: Estadio Ciudad de México\, CDMX\nHora por confirma
+ r (depende de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre
+  este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text
+ =Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016av
+ os%20de%20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-080@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260701
+SUMMARY:⚽ 16avos de final · 1º Grupo L vs 3º (E/H/I/J/K)
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P80)\n1º Grupo L vs 
+ 3º (E/H/I/J/K)\nSede: Mercedes-Benz Stadium\, Atlanta\nHora por confirmar
+  (depende de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre 
+ este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=
+ Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avo
+ s%20de%20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-081@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260701
+SUMMARY:⚽ 16avos de final · 1º Grupo D vs 3º (B/E/F/I/J)
+LOCATION:Levi's Stadium\, San Francisco
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P81)\n1º Grupo D vs 
+ 3º (B/E/F/I/J)\nSede: Levi's Stadium\, San Francisco\nHora por confirmar 
+ (depende de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre e
+ ste partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=H
+ ola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos
+ %20de%20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-082@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260701
+SUMMARY:⚽ 16avos de final · 1º Grupo G vs 3º (A/E/H/I/J)
+LOCATION:Lumen Field\, Seattle
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P82)\n1º Grupo G vs 
+ 3º (A/E/H/I/J)\nSede: Lumen Field\, Seattle\nHora por confirmar (depende 
+ de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este parti
+ do conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Med
+ rano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos%20de%20f
+ inal%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-083@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260702
+SUMMARY:⚽ 16avos de final · 2º Grupo K vs 2º Grupo L
+LOCATION:BMO Field\, Toronto
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P83)\n2º Grupo K vs 
+ 2º Grupo L\nSede: BMO Field\, Toronto\nHora por confirmar (depende de los
+  equipos clasificados).\n\n💬 ¿Quieres conversar sobre este partido con
+ migo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2
+ C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos%20de%20final%3
+ F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-084@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260702
+SUMMARY:⚽ 16avos de final · 1º Grupo H vs 2º Grupo J
+LOCATION:SoFi Stadium\, Los Ángeles
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P84)\n1º Grupo H vs 
+ 2º Grupo J\nSede: SoFi Stadium\, Los Ángeles\nHora por confirmar (depend
+ e de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este par
+ tido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20M
+ edrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos%20de%2
+ 0final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-085@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260702
+SUMMARY:⚽ 16avos de final · 1º Grupo B vs 3º (E/F/G/I/J)
+LOCATION:BC Place\, Vancouver
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P85)\n1º Grupo B vs 
+ 3º (E/F/G/I/J)\nSede: BC Place\, Vancouver\nHora por confirmar (depende d
+ e los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este partid
+ o conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medr
+ ano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos%20de%20fi
+ nal%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-086@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260703
+SUMMARY:⚽ 16avos de final · 1º Grupo J vs 2º Grupo H
+LOCATION:Hard Rock Stadium\, Miami
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P86)\n1º Grupo J vs 
+ 2º Grupo H\nSede: Hard Rock Stadium\, Miami\nHora por confirmar (depende 
+ de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este parti
+ do conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Med
+ rano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos%20de%20f
+ inal%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-087@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260703
+SUMMARY:⚽ 16avos de final · 1º Grupo K vs 3º (D/E/I/J/L)
+LOCATION:Arrowhead Stadium\, Kansas City
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P87)\n1º Grupo K vs 
+ 3º (D/E/I/J/L)\nSede: Arrowhead Stadium\, Kansas City\nHora por confirmar
+  (depende de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre 
+ este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=
+ Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avo
+ s%20de%20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-088@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260703
+SUMMARY:⚽ 16avos de final · 2º Grupo D vs 2º Grupo G
+LOCATION:AT&T Stadium\, Dallas
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%2016avos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · 16avos de final (P88)\n2º Grupo D vs 
+ 2º Grupo G\nSede: AT&T Stadium\, Dallas\nHora por confirmar (depende de l
+ os equipos clasificados).\n\n💬 ¿Quieres conversar sobre este partido c
+ onmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano
+ %2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%2016avos%20de%20final
+ %3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-089@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260704
+SUMMARY:⚽ Octavos de final · Ganador P74 vs Ganador P77
+LOCATION:Lincoln Financial Field\, Philadelphia
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Octavos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Octavos de final (P89)\nGanador P74 vs
+  Ganador P77\nSede: Lincoln Financial Field\, Philadelphia\nHora por confi
+ rmar (depende de los equipos clasificados).\n\n💬 ¿Quieres conversar so
+ bre este partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?t
+ ext=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20O
+ ctavos%20de%20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-090@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260704
+SUMMARY:⚽ Octavos de final · Ganador P73 vs Ganador P75
+LOCATION:NRG Stadium\, Houston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Octavos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Octavos de final (P90)\nGanador P73 vs
+  Ganador P75\nSede: NRG Stadium\, Houston\nHora por confirmar (depende de 
+ los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este partido 
+ conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medran
+ o%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Octavos%20de%20fin
+ al%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-091@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260705
+SUMMARY:⚽ Octavos de final · Ganador P76 vs Ganador P78
+LOCATION:MetLife Stadium\, Nueva Jersey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Octavos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Octavos de final (P91)\nGanador P76 vs
+  Ganador P78\nSede: MetLife Stadium\, Nueva Jersey\nHora por confirmar (de
+ pende de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este
+  partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola
+ %20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Octavos%2
+ 0de%20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-092@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260705
+SUMMARY:⚽ Octavos de final · Ganador P79 vs Ganador P80
+LOCATION:Estadio Ciudad de México\, CDMX
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Octavos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Octavos de final (P92)\nGanador P79 vs
+  Ganador P80\nSede: Estadio Ciudad de México\, CDMX\nHora por confirmar (
+ depende de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre es
+ te partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Ho
+ la%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Octavos
+ %20de%20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-093@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260706
+SUMMARY:⚽ Octavos de final · Ganador P83 vs Ganador P84
+LOCATION:AT&T Stadium\, Dallas
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Octavos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Octavos de final (P93)\nGanador P83 vs
+  Ganador P84\nSede: AT&T Stadium\, Dallas\nHora por confirmar (depende de 
+ los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este partido 
+ conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medran
+ o%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Octavos%20de%20fin
+ al%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-094@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260706
+SUMMARY:⚽ Octavos de final · Ganador P81 vs Ganador P82
+LOCATION:Lumen Field\, Seattle
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Octavos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Octavos de final (P94)\nGanador P81 vs
+  Ganador P82\nSede: Lumen Field\, Seattle\nHora por confirmar (depende de 
+ los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este partido 
+ conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medran
+ o%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Octavos%20de%20fin
+ al%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-095@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260707
+SUMMARY:⚽ Octavos de final · Ganador P86 vs Ganador P88
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Octavos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Octavos de final (P95)\nGanador P86 vs
+  Ganador P88\nSede: Mercedes-Benz Stadium\, Atlanta\nHora por confirmar (d
+ epende de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre est
+ e partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hol
+ a%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Octavos%
+ 20de%20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-096@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260707
+SUMMARY:⚽ Octavos de final · Ganador P85 vs Ganador P87
+LOCATION:BC Place\, Vancouver
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Octavos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Octavos de final (P96)\nGanador P85 vs
+  Ganador P87\nSede: BC Place\, Vancouver\nHora por confirmar (depende de l
+ os equipos clasificados).\n\n💬 ¿Quieres conversar sobre este partido c
+ onmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano
+ %2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Octavos%20de%20fina
+ l%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-097@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260709
+SUMMARY:⚽ Cuartos de final · Ganador P89 vs Ganador P90
+LOCATION:Gillette Stadium\, Boston
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Cuartos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Cuartos de final (P97)\nGanador P89 vs
+  Ganador P90\nSede: Gillette Stadium\, Boston\nHora por confirmar (depende
+  de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este part
+ ido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Me
+ drano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Cuartos%20de%2
+ 0final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-098@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260710
+SUMMARY:⚽ Cuartos de final · Ganador P93 vs Ganador P94
+LOCATION:SoFi Stadium\, Los Ángeles
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Cuartos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Cuartos de final (P98)\nGanador P93 vs
+  Ganador P94\nSede: SoFi Stadium\, Los Ángeles\nHora por confirmar (depen
+ de de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este pa
+ rtido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20
+ Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Cuartos%20de
+ %20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-099@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260711
+SUMMARY:⚽ Cuartos de final · Ganador P91 vs Ganador P92
+LOCATION:Hard Rock Stadium\, Miami
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Cuartos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Cuartos de final (P99)\nGanador P91 vs
+  Ganador P92\nSede: Hard Rock Stadium\, Miami\nHora por confirmar (depende
+  de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este part
+ ido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Me
+ drano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Cuartos%20de%2
+ 0final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-100@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260711
+SUMMARY:⚽ Cuartos de final · Ganador P95 vs Ganador P96
+LOCATION:Arrowhead Stadium\, Kansas City
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Cuartos%20de%20final%3F
+DESCRIPTION:Pregúntale a Medrano · Cuartos de final (P100)\nGanador P95 v
+ s Ganador P96\nSede: Arrowhead Stadium\, Kansas City\nHora por confirmar (
+ depende de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre es
+ te partido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Ho
+ la%20Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Cuartos
+ %20de%20final%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-101@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260714
+SUMMARY:⚽ Semifinal · Ganador P97 vs Ganador P98
+LOCATION:AT&T Stadium\, Dallas
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Semifinal%3F
+DESCRIPTION:Pregúntale a Medrano · Semifinal (P101)\nGanador P97 vs Ganad
+ or P98\nSede: AT&T Stadium\, Dallas\nHora por confirmar (depende de los eq
+ uipos clasificados).\n\n💬 ¿Quieres conversar sobre este partido conmig
+ o? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medrano%2C%2
+ 0%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Semifinal%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-102@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260715
+SUMMARY:⚽ Semifinal · Ganador P99 vs Ganador P100
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Semifinal%3F
+DESCRIPTION:Pregúntale a Medrano · Semifinal (P102)\nGanador P99 vs Ganad
+ or P100\nSede: Mercedes-Benz Stadium\, Atlanta\nHora por confirmar (depend
+ e de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este par
+ tido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20M
+ edrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Semifinal%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-103@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260718
+SUMMARY:⚽ Tercer puesto · Perdedor P101 vs Perdedor P102
+LOCATION:Hard Rock Stadium\, Miami
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20Tercer%20puesto%3F
+DESCRIPTION:Pregúntale a Medrano · Tercer puesto (P103)\nPerdedor P101 vs
+  Perdedor P102\nSede: Hard Rock Stadium\, Miami\nHora por confirmar (depen
+ de de los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este pa
+ rtido conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20
+ Medrano%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20Tercer%20pue
+ sto%3F
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-104@medrano
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260719
+SUMMARY:🏆 FINAL · Ganador P101 vs Ganador P102
+LOCATION:MetLife Stadium\, Nueva Jersey
+URL:https://wa.me/523321015353?text=Hola%20Medrano%2C%20%C2%BFqu%C3%A9%20op
+ inas%20sobre%20el%20partido%20la%20FINAL%3F
+DESCRIPTION:Pregúntale a Medrano · FINAL (P104)\nGanador P101 vs Ganador 
+ P102\nSede: MetLife Stadium\, Nueva Jersey\nHora por confirmar (depende de
+  los equipos clasificados).\n\n💬 ¿Quieres conversar sobre este partido
+  conmigo? Pregúntame aquí:\nhttps://wa.me/523321015353?text=Hola%20Medra
+ no%2C%20%C2%BFqu%C3%A9%20opinas%20sobre%20el%20partido%20la%20FINAL%3F
+END:VEVENT
+END:VCALENDAR
